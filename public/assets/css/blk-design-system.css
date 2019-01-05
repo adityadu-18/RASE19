@@ -21084,4 +21084,10 @@ input.datetimepicker[data-color="yellow"]+.bootstrap-datetimepicker-widget.dropd
   margin: 0;
 }
 
+li {
+  font-size: 14px;
+  margin-left: 10px;
+  list-style-type: circle;
+}
+
 /*# sourceMappingURL=kit-free.css.map */
